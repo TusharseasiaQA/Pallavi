@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Java Practice/untitled1/src/test/java/DailyTasks/AddReport.java">
+        <classes>
+            <class name="DailyTasks.AddReport">
+                <methods>
+                    <include name="freeCrmTitleTest"/>
+                    <include name="freemCRMLogoTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
